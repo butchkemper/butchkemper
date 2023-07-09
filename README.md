@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @butchkemper
-
 - 🌱 I’m currently learning how to use Git for MagicMirror project modules
-
 - 📫 How to reach me butch@kemperfamily.us
 
 <!---
